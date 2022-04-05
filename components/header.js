@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import HeaderItem from './headerItem'
+import HeaderItem from './HeaderItem'
 import { BadgeCheckIcon, CollectionIcon, HomeIcon, LightningBoltIcon, SearchIcon, UserIcon } from '@heroicons/react/outline'
 
 function Header() {
