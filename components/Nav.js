@@ -14,7 +14,6 @@ function Nav() {
                 className="cursor-pointer transition duration-100 hover:scale-125 hover:text-white active:text-red-500">{title}</h2>
             )) }
         </div>
-        <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/12"/>
     </nav>
   )
 }
